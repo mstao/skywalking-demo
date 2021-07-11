@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: order
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.64.128:8848
+        namespace: 925112e6-1fd3-48c7-88ee-2e50b05bd547
+
